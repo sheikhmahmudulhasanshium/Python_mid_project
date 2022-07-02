@@ -1,1 +1,1 @@
-The clash checking option is not fully optimized yet.
+The clash checking is not appropriate yet.
